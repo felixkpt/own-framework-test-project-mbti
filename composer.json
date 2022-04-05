@@ -1,0 +1,5 @@
+{
+    "autoload": {
+        "classmap": ["app/Controllers", "app/Services", "app"]
+    }
+}
